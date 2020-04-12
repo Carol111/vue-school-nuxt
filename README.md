@@ -1,4 +1,6 @@
-# nuxt-fundamentals
+![Nuxt](https://imgur.com/iDY8Wfp.png)
+
+# Nuxt Fundamentals
 
 > My polished Nuxt.js project
 
